@@ -176,11 +176,9 @@ Node *buildHuffmanTree(string text)
 
 string readData(string fileName)
 {
-
 	fstream f;
 	string data;
-	f.open(fileName, ios ::in);
-	
+	f.open(fileName, ios ::in);	
 	if (!f)
 	{
 		cout << "Unable to open the file." << endl;
