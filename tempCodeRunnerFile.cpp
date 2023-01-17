@@ -1,0 +1,1 @@
+G:\\vit\\2nd year-sem1\\ADS\\tt.txt
